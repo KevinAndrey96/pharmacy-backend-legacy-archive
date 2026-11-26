@@ -14,3 +14,7 @@ database/*.sqlite
 # VSCode & Webstorm history directories
 .history
 .idea
+
+# Dependencies, build output and local files
+tmp/
+.DS_Store
